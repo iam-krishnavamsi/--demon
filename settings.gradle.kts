@@ -1,1 +1,1 @@
-rootProject.name = "kotlin-snapshot-test"
+rootProject.name = "demo"
